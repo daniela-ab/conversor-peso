@@ -1,0 +1,17 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+h4, 
+#kgsOutput,
+#gramsOutput,
+#ozOutput {
+    margin: 10px;
+}
+
